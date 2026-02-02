@@ -1,5 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>- Improving my Python programming skills<br><br>- College projects related to Computer Science<br><br>- Practicing problem-solving and core CS subjects<br><br>👯 I’m looking to collaborate on<br><br>- Beginner-friendly Python projects<br><br>- Mini projects related to AI / ML<br><br>- Learning-based tech projects with students<br><br>🤝 I’m looking for help with<br><br>- Python best practices and debugging<br><br>- Understanding AI / ML concepts clearly<br><br>- Guidance for CS subjects and projects<br><br>🌱 I’m currently learning<br><br>- Python (core + basics)<br><br>- Artificial Intelligence & Machine Learning<br><br>- Database concepts and Image Processing<br><br>💬 Ask me about<br><br>- Python basics<br><br>- College CS subjects<br><br>- How I learn topics using simple explanations 
+I’m currently working on<br><br>
+
+Improving my Python programming skills<br><br>
+
+College projects related to Computer Science<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+
+Beginner-friendly Python projects<br><br>
+
+Mini projects related to AI / ML<br><br>
+
+🤝 I’m looking for help with<br><br>
+
+Python best practices and debugging<br><br>
+
+Understanding AI / ML concepts clearly<br><br>
+
+🌱 I’m currently learning<br><br>
+
+Python (core + basics)<br><br>
+
+Artificial Intelligence & Machine Learning<br><br>
+
+Database concepts<br><br>
+
+💬 Ask me about<br><br>
+
+Python basics<br><br>
+
+College CS subjects<br><br>
 
 
 ## 🌐 Socials:
